@@ -6,15 +6,20 @@ If you use this data, please cite:
 
 > **Cunningham, S., Gardner, L., M. R., Grand, M., Metter, J., Salmi, A., Simpson, E., Graham, M., Hamilton, S. L., Schuppenhauer, Kalscheur, K., Gunter, S. A., & Gossard, D. J.** (2024). *Optimizing Bromoform Content in Gracilaria parvispora: The Role of Environmental Stressors.* DOI: [to be added]
 
-## 📂 Data Files
+### 📂 Available Datasets  
 
-This repository contains the following datasets:
+This repository contains the following datasets:  
 
-- **`Desiccation_blocked.csv`** – Data related to the desiccation experiments.
-- **`Shading_blocked.csv`** – Data from shading experiments.
-- **`Thermal_blocked.csv`** – Data from temperature experiments.
-- **`diurnal_emission.csv`** – Diurnal emission data.
-- **`diurnal_content.csv`** – Diurnal content data.
+| File Name                   | Description |
+|-----------------------------|-------------|
+| **`Desiccation_blocked.csv`** | Data related to desiccation experiments, where treatments represent time exposed (0, 15, 30, 45 minutes). |
+| **`Shading_blocked.csv`** | Data from shading experiments measuring the effects of reduced light availability. |
+| **`Thermal_blocked.csv`** | Data from temperature experiments, where treatments represent temperature groups (~17°C, ~19°C, ~21°C, ~24°C). |
+| **`diurnal_emission.csv`** | Diurnal emission data tracking CHBr₃ emissions over a daily cycle. |
+| **`diurnal_content.csv`** | Diurnal content data tracking CHBr₃ tissue content over a daily cycle. |
+
+For details on column names, units, and treatments, see the **[`data/metadata.md`](data/metadata.md)** file.
+
 
 ### 📊 Jupyter Notebook
 
