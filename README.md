@@ -4,7 +4,7 @@
 
 If you use this data, please cite:
 
-> **Cunningham, S., Gardner, L., Salmi, A., Simpson, E., Graham, M., Hamilton, S. L., Schuppenhauer, M. R., Grand, M., Metter, J., Kalscheur, K., Gunter, S. A., & Gossard, D. J.** (2024). *Optimizing Bromoform Content in Gracilaria parvispora: The Role of Environmental Stressors.* DOI: [to be added]
+> **Cunningham, S., Gardner, L., M. R., Grand, M., Metter, J., Salmi, A., Simpson, E., Graham, M., Hamilton, S. L., Schuppenhauer, Kalscheur, K., Gunter, S. A., & Gossard, D. J.** (2024). *Optimizing Bromoform Content in Gracilaria parvispora: The Role of Environmental Stressors.* DOI: [to be added]
 
 ## 📂 Data Files
 
